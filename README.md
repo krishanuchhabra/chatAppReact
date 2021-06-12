@@ -2,6 +2,17 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## About
+
+It is a chat room web app. A user can enter the username and can enter the chat room directly. Firebase database has been used to store the messages. Also, React states and hooks have been used along with props. Little bit bootstrap and Material-UI was used too. A snapshot of the app is shown below. 
+
+![image](https://user-images.githubusercontent.com/30947596/121789371-010c3200-cbf3-11eb-8490-7a48ce44c77a.png)
+
+You may access the app here : https://messengerapp-4cbaa.web.app/
+
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
